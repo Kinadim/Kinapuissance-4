@@ -12,9 +12,6 @@ d'en aligné 4. Ce projet a était réalisé en python
 
 Ce programme ce lance normalement dans la console.Du moment où vous avait installé python dans votre ordinateur
 
-**Utilisation :**
-
-![1701980225122](image/README2/1701980225122.png)
 
 **Auteurs :**
 
