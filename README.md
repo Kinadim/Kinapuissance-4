@@ -24,10 +24,4 @@ Kinadim (Nadim Douhane)
 
 * mail amu : nadim.douhane@gmail.com
 
-13. **Liens Utiles :**
 
-* Ajoutez des liens vers toute documentation supplémentaire, des guides d'utilisation, etc.
-
-14. **Captures d'écran :**
-
-* Si votre projet a une interface utilisateur, ajoutez des captures d'écran pour illustrer son fonctionnement.
